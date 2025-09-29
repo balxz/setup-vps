@@ -20,7 +20,10 @@ Fitur script:
 1. Login ke VPS dengan SSH  
 2. Clone repository ini
 ```bash
-git clone https://github.com/username/repo.git cd repo
+git clone https://github.com/balxz/setup-vps
+```
+```bash
+cd setup-vps
 ```
 4. Beri izin eksekusi script
 ```bash
