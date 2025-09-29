@@ -30,6 +30,9 @@ chmod +x setup.sh
 ```bash
 ./setup.sh
 ```
+```bash
+bash setup.sh
+```
 ### ???cara pakai
 - Saat menjalankan script, pilih versi Node.js yang tersedia  
 - Versi yang dipilih akan otomatis diatur sebagai default  
