@@ -17,8 +17,11 @@ Fitur script:
 - Menyediakan Nginx untuk reverse proxy atau static file server  
 
 ### ???cara install
-1. Login ke VPS dengan SSH  
-2. Clone repository ini
+1. Login ke VPS dengan SSH
+```bash
+ssh root@ip -p 22
+```  
+3. Clone repository ini
 ```bash
 git clone https://github.com/balxz/setup-vps
 ```
@@ -29,7 +32,7 @@ cd setup-vps
 ```bash
 chmod +x setup.sh
 ```
-4. Jalankan script
+5. Jalankan script
 ```bash
 ./setup.sh
 ```
